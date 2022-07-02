@@ -4,7 +4,7 @@ Replication "factory" that creates X number of cloned Pacmen
 
 <h2>Stepwise Run Actions Required:</h2>
 
-<img src="/philip-case/PacmanFactory/raw/main/PacMan1.png" style="max-width: 100%;">
+<img src="/philip-case/PacmanFactory/PacMan1.png" style="max-width: 100%;">
 
 Click buton at top titled:  "Add Pac-Man" (once or many times)
 Press "Start Game" button to see images of the Pacmen appear and move
