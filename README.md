@@ -1,10 +1,10 @@
 
 # PacmanFactory
 Replication "factory" that creates X number of cloned Pacmen
+<!--Expanded upon by Philip Case based on an MIT XPro class exercise June 2022-->
 
 
-
-<img src="./PacMan1.png" style="max-width: 100%;">
+<img src="./PacMan1.png" style="max-width: 50%;">
 
 <h2>Stepwise Run Actions Required:</h2>
 
@@ -16,14 +16,17 @@ Replication "factory" that creates X number of cloned Pacmen
 6. Velocity and direction randomly generated using Math.random
 7. When the Pacmen reach the page limit - the Pacmen will bounce and reverse direction
 
+
+
+<img src="./pacmanexample.png" width="700">
 <h2>Roadmap Run:</h2>
 
-Add sound elements
-<br>
-Add Zombie Pacmen
-<br>
-Develope 3D Pacmen
-<br>
+1. Add sound elements
+2. Add Zombie Pacmen
+3. Develope 3D Pacmen
+4. Include Ms. PacWoman
+5. Create user to control (keyboard/mouse) for directional control of the first Pacman made
+
 
 
 <h2>License Discolures:</h2>
