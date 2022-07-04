@@ -27,6 +27,9 @@ Replication "factory" that creates X number of cloned Pacmen
 4. Include Ms. PacWoman
 5. Create user to control (keyboard/mouse) for directional control of the first Pacman made
 
+<h2> Challenges</h2>
+The learning curve of syntax like curly braces, semi colons.
+Initally getting my toggle/annimation to work
 
 
 <h2>License Discolures:</h2>
